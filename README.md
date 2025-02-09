@@ -1,0 +1,3 @@
+# E-COMMERCE APP - Final VSL Project
+
+### PROJECT OVERVIEW
